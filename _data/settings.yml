@@ -85,11 +85,11 @@ education:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+  - image : "assets/images/portfolio/vr_room.PNG"
+    url: "https://github.com/dannyhollman/VR_Escape_Room"
     
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+  - image : "assets/images/portfolio/bowman2.PNG"
+    url: "https://github.com/dannyhollman/Bowman"
     
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
@@ -105,28 +105,28 @@ portfolio-home-items:
 portfolio-label:
 - {
     title : "AR/VR",
-    type : "design"
+    type : "AR/VR"
   }
 - {
     title : "Game Development",
-    type : "branding"
+    type : "Game Development"
   }
 - {
     title : "Hackathon",
-    type : "illustration"
+    type : "Hackathon"
   }
 
 portfolio-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+  - image : "assets/images/portfolio/vr_room.PN"
+    url: "https://github.com/dannyhollman/VR_Escape_Room"
     portfolio-type:
-     - type: "design"
-     - type: "illustration"
+     - type: "AR/VR"
+     - type: "Game Development"
       
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+  - image : "assets/images/portfolio/bowman2.PNG"
+    url: "https://github.com/dannyhollman/Bowman"
     portfolio-type:
-      - type: "branding"
+      - type: "Game Development"
       
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
